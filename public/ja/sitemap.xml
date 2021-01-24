@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://starnishi.github.io/githubpagewithhugo/docs/my-first-post/</loc>
+    <lastmod>2021-01-24T19:54:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://starnishi.github.io/githubpagewithhugo/docs/about/productname/</loc>
+    <lastmod>2021-01-24T20:45:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://starnishi.github.io/githubpagewithhugo/docs/</loc>
+    <lastmod>2021-01-24T20:45:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://starnishi.github.io/githubpagewithhugo/</loc>
+    <lastmod>2021-01-24T20:45:02+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://starnishi.github.io/githubpagewithhugo/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://starnishi.github.io/githubpagewithhugo/no/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://starnishi.github.io/githubpagewithhugo/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://starnishi.github.io/githubpagewithhugo/"
+                />
+  </url>
+  
+</urlset>
