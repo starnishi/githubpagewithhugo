@@ -1,0 +1,22 @@
+baseURL = "/"
+title = "Goldydocs"
+
+enableRobotsTXT = true
+
+# Hugo allows theme composition (and inheritance). The precedence is from left to right.
+theme = ["docsy"]
+
+# Will give values to .Lastmod etc.
+enableGitInfo = true
+
+# Language settings
+languageCode = "en-us"
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
+contentDir = "content/ja"
+
+[languages.ja]
+title = "Docsy 2"
+description = ""
+languageName = "japanese"
+contentDir = "content/ja"
