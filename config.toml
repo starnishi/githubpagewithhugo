@@ -116,7 +116,7 @@ section = ["HTML", "print"]
 [params]
 copyright = "The Docsy Authors"
 privacy_policy = "https://policies.google.com/privacy"
-publishDir = "public"
+publishDir = "docs"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
