@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/</loc>
+    <loc>https://starnishi.github.io/githubpagewithhugo/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/"
+                href="https://starnishi.github.io/githubpagewithhugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="/no/"
+                href="https://starnishi.github.io/githubpagewithhugo/no/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="/fa/"
+                href="https://starnishi.github.io/githubpagewithhugo/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://starnishi.github.io/githubpagewithhugo/en/"
                 />
   </url>
   
